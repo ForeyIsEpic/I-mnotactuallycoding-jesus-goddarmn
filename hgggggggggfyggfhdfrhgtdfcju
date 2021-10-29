@@ -1,0 +1,15 @@
+@echo off
+
+cls
+
+echo.             
+echo ####\\\\\\\\\
+echo ####\\\\DOS\\
+echo ####\\\\\\\\\
+echo.             
+echo ----------------------------------------------------------------------
+echo.
+echo Loading system...
+
+C:\DOTGC\DRIVERS\CTMOUSE.EXE
+C:\DOTGC\GAMES.BAT
