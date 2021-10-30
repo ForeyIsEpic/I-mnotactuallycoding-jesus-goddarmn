@@ -2,11 +2,33 @@
 
 cls
 
-echo.             
-echo ####\\\\\\\\\
-echo ####\\\\DOS\\
-echo ####\\\\\\\\\
-echo.             
+echo.             @echo off
+
+cls
+
+echo-----------------------------------------
+echo.
+Projects
+To-do listNeimi	1	Archer	17	4	5	6	4	3	2	5	5	Bow D	Fire
+Community
+Featured Articles
+Discord
+Social media
+Ostia Square
+Affiliates and partners
+Advertisement
+Wiki tools
+Special pages
+Page values
+echo Loading system...
+@echo off
+
+cls
+
+C:\DOTGC\GAMES.BAT
+
+C:\DOTGC\DRIVERS\CTMOUSE.EXE
+C:\DOTGC\GTo be honest, we live
 echo ----------------------------------------------------------------------
 echo.
 echo Loading system...
